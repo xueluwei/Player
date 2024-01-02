@@ -13,3 +13,5 @@ keystore
 keystore.jks
 keystore.properties
 /doc/*.c
+app/.cxx
+app/schemas
